@@ -36,3 +36,39 @@ if(place_meeting(x, y+v_speed, object_wall)){
 	v_speed = 0;	
 }
 y += v_speed;
+
+//Animation of player
+//flip animation depending on player direction
+if(h_speed != 0){
+	image_xscale = sign(h_speed);
+}
+
+if(!place_meeting(x,y+1, object_wall)){
+	//In the air
+	sprite_index = sprite_player_airborne;
+	image_speed = 0;
+	if(sign(v_speed) > 0){
+		//moving down
+		image_index = 1;
+	} else {
+		//moving up
+		image_index = 0;
+	}
+} else {
+	//On the ground
+	image_speed = 1;
+	if(h_speed == 0){
+		sprite_index = sprite_player;	
+	} else {
+		sprite_index = sprite_player_run;
+		
+	}
+	
+}
+
+
+
+
+
+
+

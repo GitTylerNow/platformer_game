@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "2831d1d4-78a9-47c9-b56d-e83c76e5fc85",
+            "Value": {
+                "id": "3b441281-6f74-465f-98e5-768aacabcdfa",
+                "resourcePath": "sprites\\sprite_player_run\\sprite_player_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31c59ab5-1a4a-4706-b3ae-866af73c9a12",
+            "Value": {
+                "id": "a032d538-92d0-42b8-acc3-07a094d44441",
+                "resourcePath": "sprites\\sprite_player_airborne\\sprite_player_airborne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3950aed5-2abc-4581-b1f6-5bc5dd56aaa9",
             "Value": {
                 "id": "c3548669-c64e-4abe-8d85-de495b076428",
@@ -58,7 +74,7 @@
             "Key": "42f143b1-92f3-4efe-a049-7e35883631a7",
             "Value": {
                 "id": "38e80b54-dc03-4dda-ba86-7b8279617737",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_game\\room_game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -124,6 +140,14 @@
                 "id": "c39f5855-c5f1-4526-afb5-beb49415cd8e",
                 "resourcePath": "views\\9e5aad47-a0a0-4138-9960-3cdbe8a1008e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "93321083-db38-469f-ae4d-a2897edbbfd7",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "2da53a9b-fba1-42ac-8bad-313e7461108f",
                 "resourcePath": "views\\f37059fd-0799-48ac-90ef-9330b0abc4b3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "7e019390-50b7-4eaa-bb7e-c946600fbd14",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         }
     ],

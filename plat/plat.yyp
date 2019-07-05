@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1ebd2795-df5f-4681-b29c-e411c9a47ce3",
+            "Value": {
+                "id": "1064f5ca-f936-4b1f-9200-c0df4ed19e91",
+                "resourcePath": "sprites\\sprite_gun\\sprite_gun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2831d1d4-78a9-47c9-b56d-e83c76e5fc85",
             "Value": {
                 "id": "3b441281-6f74-465f-98e5-768aacabcdfa",
@@ -51,6 +59,14 @@
             "Value": {
                 "id": "a032d538-92d0-42b8-acc3-07a094d44441",
                 "resourcePath": "sprites\\sprite_player_airborne\\sprite_player_airborne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "326c7c78-c7b1-481c-ba9e-88b31d386265",
+            "Value": {
+                "id": "9189fb97-6425-4a27-a099-9f085fb9cfc0",
+                "resourcePath": "sprites\\sprite_bullet\\sprite_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -76,6 +92,14 @@
                 "id": "38e80b54-dc03-4dda-ba86-7b8279617737",
                 "resourcePath": "rooms\\room_game\\room_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5a2ba2f4-0fe3-447e-b9e6-1e955fb36e11",
+            "Value": {
+                "id": "92eebd24-bd73-45cc-bc9f-0846aaa838e5",
+                "resourcePath": "objects\\object_gun\\object_gun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -131,6 +155,14 @@
             "Value": {
                 "id": "a176db5b-d70b-4bc5-b180-7649b3ad11b0",
                 "resourcePath": "objects\\object_wall\\object_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "98e3d7c5-a64c-415d-8208-957f01ad944d",
+            "Value": {
+                "id": "06d0a1c2-1cb1-4e5a-bf34-567a0b4cde44",
+                "resourcePath": "objects\\object_bullet\\object_bullet.yy",
                 "resourceType": "GMObject"
             }
         },

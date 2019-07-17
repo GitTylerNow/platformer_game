@@ -325,6 +325,14 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f57816df-00f7-41f7-8705-f7611f27c064",
+            "Value": {
+                "id": "5498cb6c-9cd1-43c2-a8db-b8cea0faadd5",
+                "resourcePath": "objects\\object_camera\\object_camera.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [

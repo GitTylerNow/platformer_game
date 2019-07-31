@@ -1,12 +1,15 @@
-/// @description Insert description here
 
-
-//Player input
-//key_check checks if button is down or not. key_check_pressed checks if key was actually pressed during frame
-key_left = keyboard_check(ord("A"));
-key_right = keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space);
-
+if(has_control){
+	//Player input
+	//key_check checks if button is down or not. key_check_pressed checks if key was actually pressed during frame
+	key_left = keyboard_check(ord("A"));
+	key_right = keyboard_check(ord("D"));
+	key_jump = keyboard_check_pressed(vk_space);
+} else {
+	key_left = 0;
+	key_right = 0;
+	key_jump = 0;
+}
 
 //Calculate movement
 var move = key_right - key_left;

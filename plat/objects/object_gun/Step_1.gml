@@ -15,6 +15,7 @@ gun_recoil = max(0, gun_recoil - 1);
 if(mouse_check_button(mb_left)) && firing_delay < 0 {
 	firing_delay = 10;
 	gun_recoil = 4;
+	screen_shake(2, 10);
 	with(instance_create_layer(x, y, "Instances_bullet", object_bullet)){
 		speed = 25;
 		direction = other.image_angle + random_range(-3, 3);

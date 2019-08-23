@@ -1,5 +1,4 @@
 ## This is my game. It is a game. That is all
 
-Added a 2nd level and a transition sequence. Black bars go over the screen during transition/loading of next level
-![alt text](https://github.com/GitTylerNow/platformer_game/blob/master/7_30_19/1.png)
-![alt text](https://github.com/GitTylerNow/platformer_game/blob/master/7_30_19/2.png)
+Added a small screen shake to the shooting the player gun. Since that is hard to animate here is a picture of a cat
+![alt text](https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)

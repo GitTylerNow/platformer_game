@@ -22,3 +22,11 @@ shake_remain = max(0, shake_remain - ((1/shake_length) * shake_magnitude));
 //Puts player in center of camera instead of top left corner
 
 camera_set_view_pos(cam, x - view_w_half, y - view_h_half);
+
+if(layer_exists("Backgrounds_night_sky")){
+	layer_x("Backgrounds_night_sky", x/2);
+}
+
+if(layer_exists("Backgrounds_arches")){
+	layer_x("Backgrounds_arches", x/4);
+}

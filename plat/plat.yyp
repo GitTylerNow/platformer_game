@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2fb8e9e4-5cf8-41ba-88ef-f854745afcb0",
+            "Value": {
+                "id": "b027a6e8-8ad0-4576-b56b-0fbe7ecafe81",
+                "resourcePath": "sprites\\sprite_night_sky\\sprite_night_sky.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31c59ab5-1a4a-4706-b3ae-866af73c9a12",
             "Value": {
                 "id": "a032d538-92d0-42b8-acc3-07a094d44441",
@@ -180,6 +188,14 @@
                 "id": "7ce3455e-c22e-4d89-9253-c75634802172",
                 "resourcePath": "views\\68109142-5f30-4ca0-be3a-5facd2cbccd6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b1401ae-d4af-41d3-b1e1-50dc85b0f713",
+            "Value": {
+                "id": "87b375df-5917-4b72-b4ba-640d79d15c3a",
+                "resourcePath": "sprites\\sprite_arches\\sprite_arches.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -380,6 +396,14 @@
                 "id": "5498cb6c-9cd1-43c2-a8db-b8cea0faadd5",
                 "resourcePath": "objects\\object_camera\\object_camera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe8a6994-09b7-4892-b5e9-1feb73379bbf",
+            "Value": {
+                "id": "671ecfc5-60a7-4606-b211-3b280127d1f2",
+                "resourcePath": "sprites\\sprite_walls\\sprite_walls.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
